@@ -1,0 +1,5 @@
+anthropic>=0.39.0
+aiohttp>=3.10.0
+diff-match-patch>=20241021
+openai>=1.54.0
+pandas>=2.2.0
